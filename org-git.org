@@ -1,4 +1,0 @@
-* Orgmode on Git
-** link to [[https://github.com/github/markup][github markup]]
-*** link to [[github/markup][github markup]]
-* TODO of orgmode
